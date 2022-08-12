@@ -12,5 +12,12 @@
     "link": "https://blog.imoier.xyz/",
     "image": "https://thirdqq.qlogo.cn/g?b=sdk&k=FiaeuNkDUzxIzNqVVV3RosA&s=140&t=1657585142",
     "domain": "blog.imoier.xyz"
+  },
+  {
+    "title": "YFun's Blog",
+    "intro": "探寻一切有趣的事物",
+    "link": "https://blog.yfun.top",
+    "image": "https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/200x200.png",
+    "domain": "blog.yfun.top"
   }
 ]
